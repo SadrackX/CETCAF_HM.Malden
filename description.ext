@@ -10,7 +10,7 @@ respawnButton 					= 0;
 respawn 						= 3; 									// Players respawn at base
 respawnDelay 					= 300; 									// Players spectate for 5 minutes(300s) between respawns
 respawnTemplates[] 				= {"ace_spectator"}; 					// Enables the spectator template for all
-//cba_settings_hasSettingsFile	= 1;
+cba_settings_hasSettingsFile	= 1;
 disableChannels[] 				= {0,1,2,3,4,6};    					// 0 = Global | 1 = Side | 2 = Command | 3 = Group | 4 = Vehicle | 5 = Direct | 6 = System
 
 showHUD[] = {
