@@ -126,7 +126,7 @@ force ace_nametags_tagSize = 0;
 // ACE Explosivos
 force ace_explosives_explodeOnDefuse = true;
 force ace_explosives_punishNonSpecialists = true;
-force ace_explosives_requireSpecialist = false;
+force ace_explosives_requireSpecialist = true;
 
 // ACE Fadiga AvanÃ§ada
 force ace_advanced_fatigue_enabled = true;
